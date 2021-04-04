@@ -1,6 +1,4 @@
-Here are some ideas to get you started:
+Hey ! Moi c'est Sundev79 ! Ou OpenCode ou encode Sun !
+Je suis développeur Fullstack!
+J'ai actuellement 16 Ans !
 
-- 🔭 I’m currently working on **ModularFramework** and **SunProject.xyz**
-- 🌱 I’m currently learning **KotlinLang**
-16 yo
-French Fullstack Dev 😎
